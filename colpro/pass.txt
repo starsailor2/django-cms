@@ -1,2 +1,0 @@
-usename :- rishav
-password :- colpro@rishav
